@@ -1,0 +1,16 @@
+{
+  "name": "git-book",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "service": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "sun.xianfeng",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "marked": "^1.2.3"
+  }
+}
